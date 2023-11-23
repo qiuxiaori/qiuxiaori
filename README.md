@@ -3,9 +3,7 @@
 
 
 <p align="center">
-  <strong><a href="">𝑩𝒍𝒐𝒈</a></strong> |
-  <strong><a href="">𝒁𝒉𝒊𝒉𝒖</a></strong> |
-  <strong><a href="">𝑨𝒃𝒐𝒖𝒕</a></strong>  
+  <strong><a href="https://qiuxiaori.xlog.app/">𝑩𝒍𝒐𝒈</a></strong> |
 </p>
 
 ## 𝑴𝒚 𝑻𝒆𝒄𝒌 𝑺𝒕𝒂𝒄𝒌
